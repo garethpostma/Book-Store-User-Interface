@@ -1,12 +1,4 @@
-/* Name: Gareth Postma
- * MacID: postmagn
- * Student Number: 001422248
- * Name: Noah Zwiep
- * MacID: zwiepn
- * Student Number: 001424643
- * Name: Mitchell Overbeeke
- * MacID: overbeml
- * Student Number: 001422018
+/* 
  * Description: this is the abstract class to outline the necessary information for each item
  * */
 public abstract class Item {
