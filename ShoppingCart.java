@@ -1,12 +1,4 @@
-/* Name: Gareth Postma
- * MacID: postmagn
- * Student Number: 001422248
- * Name: Noah Zwiep
- * MacID: zwiepn
- * Student Number: 001424643
- * Name: Mitchell Overbeeke
- * MacID: overbeml
- * Student Number: 001422018
+/* 
  * Description: this class is for adding the purchased items and displaying the content
  * */
 //import all necessary files
