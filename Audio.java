@@ -1,12 +1,4 @@
-/* Name: Gareth Postma
- * MacID: postmagn
- * Student Number: 001422248
- * Name: Noah Zwiep
- * MacID: zwiepn
- * Student Number: 001424643
- * Name: Mitchell Overbeeke
- * MacID: overbeml
- * Student Number: 001422018
+/* 
  * Description: This class define all the functions necessary for making a audioproduct Item
  * */
 public class Audio extends Item { //audio extends the class Item
